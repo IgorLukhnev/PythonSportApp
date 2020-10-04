@@ -1,0 +1,13 @@
+Spain:
+1) Head-to-head points
+2) head-to-head goal difference
+3) goal difference
+4) lower fair play scores (1 for yellow card, 3 for red)
+
+German:
+1) Goal Difference
+2) Goals scored
+3) Head-to-head points
+4) head-to-head Goals scored
+5) head-to-head away goals scored
+6) away goals scored
